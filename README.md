@@ -5,7 +5,7 @@
 
 Submitted by: **Krisha Vekaria**
 
-Time spent: **3** hours spent in total
+
 
 ## User Stories
 
