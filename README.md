@@ -3,7 +3,7 @@
 
 **Tip Calculator for iOS**
 
-Submitted by: **Krisha Vekaria**
+by: **Krisha Vekaria**
 
 
 
