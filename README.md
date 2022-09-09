@@ -1,7 +1,5 @@
-# Tip_new
 
-
-**Tip Calculator for iOS**
+# Tip Calculator for iOS
 
 by: **Krisha Vekaria**
 
